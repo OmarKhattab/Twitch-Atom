@@ -1,0 +1,27 @@
+{
+  "name": "streamwidget",
+   "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "main": "./lib/streamwidget",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "streamwidget:toggle"
+  },
+  "repository": "https://github.com/atom/streamwidget",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "dragula": "^3.7.2",
+    "interactjs": "^1.3.3",
+    "react-draggable": "^3.0.5"
+  }
+}

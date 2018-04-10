@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle streamwidget",
+        "command": "streamwidget:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "streamwidget",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "streamwidget:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
