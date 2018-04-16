@@ -3,7 +3,7 @@ Using Atom Package Manager to deliver a custom Twitch Player
 integration.
 
 ```
-![img](http://i.imgur.com/a/ZOzmj.png)
+![img](https://imgur.com/il4sRj3.png)
 ```
 
 ## Built With
