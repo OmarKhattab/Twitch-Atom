@@ -1,6 +1,6 @@
 {
   "name": "streamwidget",
-   "consumedServices": {
+  "consumedServices": {
     "status-bar": {
       "versions": {
         "^1.0.0": "consumeStatusBar"
@@ -8,7 +8,7 @@
     }
   },
   "main": "./lib/streamwidget",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Using Atom Package Manager to deliver a custom Twitch Player integration.",
   "keywords": [],
   "activationCommands": {
@@ -24,7 +24,7 @@
     "interactjs": "^1.3.3",
     "react-draggable": "^3.0.5"
   },
-    "deserializers": {
+  "deserializers": {
     "streamwidget-view/StreamwidgetView": "deserializeStreamwidgetView"
   }
 }
