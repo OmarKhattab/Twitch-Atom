@@ -1,5 +1,5 @@
 {
-  "name": "streamwidget",
+  "name": "Twitch-Atom",
   "consumedServices": {
     "status-bar": {
       "versions": {
