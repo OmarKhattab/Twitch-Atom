@@ -1,9 +1,9 @@
-# Project Title
+# Twitch-Atom
 Using Atom Package Manager to deliver a custom Twitch Player
 integration.
 
 ```
-![alt text](https://imgur.com/a/ZOzmj)
+![img](http://i.imgur.com/a/ZOzmj.png)
 ```
 
 ## Built With
