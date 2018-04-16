@@ -3,12 +3,12 @@ Using Atom Package Manager to deliver a custom Twitch Player
 integration.
 
 ```
-Give examples
+![alt text](https://imgur.com/a/ZOzmj)
 ```
 
 ## Built With
 
-* [APM](https://atom.io/docs) - The web framework used
+* [APM](https://atom.io/docs)
 * [InteractJS](http://interactjs.io/)
 
 ## Contributing
