@@ -9,12 +9,12 @@
   },
   "main": "./lib/streamwidget",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Using Atom Package Manager to deliver a custom Twitch Player integration.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "streamwidget:toggle"
   },
-  "repository": "https://github.com/atom/streamwidget",
+  "repository": "https://github.com/OmarKhattab/Twitch-Atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
