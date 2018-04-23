@@ -5,11 +5,18 @@ integration.
 
 <img width="1122" alt="screen shot 2018-04-16 at 11 30 51 am" src="https://user-images.githubusercontent.com/26516889/38828867-39861b60-416c-11e8-82c1-0df8076a458e.png">
 
+## Features
+
+* Draggable
+* Resizable
+* Hide/View Stream
+* Mute on hide
 
 ## Built With
 
 * [APM](https://atom.io/docs)
 * [InteractJS](http://interactjs.io/)
+* [atom-status-bar](https://github.com/atom/status-bar)
 
 ## Contributing
 
