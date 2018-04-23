@@ -9,6 +9,7 @@ integration.
 
 * Draggable
 * Resizable
+* Stream Search
 * Hide/View Stream
 * Mute on hide
 
